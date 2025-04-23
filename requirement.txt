@@ -1,0 +1,8 @@
+# Core dependencies
+requests>=2.31.0
+dnspython>=2.3.0
+certifi>=2024.2.2
+
+# Domain parsing
+tldextract>=5.1.2
+
